@@ -12,8 +12,8 @@
 
 <div>
 <!--     <a href="https://github.com/beatrizcrist"> -->
-<!--     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatrizcrist&show_icons=true&theme=tokyonight" />  -->
-<!--     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizcrist&layout=donut&theme=tokyonight" /> -->
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=beatrizcrist&show_icons=true&theme=tokyonight" /> 
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beatrizcrist&layout=donut&theme=tokyonight" />
 </div>
   
 ##
